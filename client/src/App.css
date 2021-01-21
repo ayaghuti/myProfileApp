@@ -1,0 +1,71 @@
+.App {
+  text-align: center;
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #61dafb;
+}
+body{
+  background-color: #eee;
+}
+
+.my-table{
+  background-color: pink !important;
+}
+
+.f-sites ul{
+  display: flex;
+  align-items: stretch; /* Default */
+  justify-content: space-between;
+  width: 100%;
+}
+
+.f-sites ul li{
+  display: inline-block !important;
+}
+.f-sites ul li img {
+  height: 50px;
+  width: 50px;
+  border-radius: 50%;
+}
+
+.social ul{
+  list-style-type: none;
+  display: flex;
+  align-items: stretch; /* Default */
+  justify-content: space-between;
+  width: 100%;
+}
+.social img{
+  height: 50px;
+  width: 50px;
+  border-radius: 50%;
+}
+.social .envelope{
+  height: 30px;
+  width: 40px;
+  border-radius: 5%;
+  padding: .1rem;
+  background-color: #eee !important;
+}
+
+.success-msg{
+  color: green;
+  padding: 10px 15px;
+}
+
+.err-msg{
+  color: red;
+  padding: 10px 15px;
+}

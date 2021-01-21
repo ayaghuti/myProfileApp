@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/static/css/main.20347ba9.chunk.css",
+    "main.js": "/static/js/main.e001c810.chunk.js",
+    "main.js.map": "/static/js/main.e001c810.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.c012fedc.js",
+    "runtime-main.js.map": "/static/js/runtime-main.c012fedc.js.map",
+    "static/css/2.ae9f1eb3.chunk.css": "/static/css/2.ae9f1eb3.chunk.css",
+    "static/js/2.456cc7e2.chunk.js": "/static/js/2.456cc7e2.chunk.js",
+    "static/js/2.456cc7e2.chunk.js.map": "/static/js/2.456cc7e2.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/2.ae9f1eb3.chunk.css.map": "/static/css/2.ae9f1eb3.chunk.css.map",
+    "static/css/main.20347ba9.chunk.css.map": "/static/css/main.20347ba9.chunk.css.map",
+    "static/js/2.456cc7e2.chunk.js.LICENSE.txt": "/static/js/2.456cc7e2.chunk.js.LICENSE.txt",
+    "static/media/ali.f21aaf01.jpg": "/static/media/ali.f21aaf01.jpg",
+    "static/media/bookBlog.58bc00f8.jpeg": "/static/media/bookBlog.58bc00f8.jpeg",
+    "static/media/education.c88f6069.jpg": "/static/media/education.c88f6069.jpg",
+    "static/media/envelope.35be9346.jpg": "/static/media/envelope.35be9346.jpg",
+    "static/media/instagram.c4791200.jpg": "/static/media/instagram.c4791200.jpg",
+    "static/media/linkedIn.e9f1273a.png": "/static/media/linkedIn.e9f1273a.png",
+    "static/media/me.8e32ceb0.jpg": "/static/media/me.8e32ceb0.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c012fedc.js",
+    "static/css/2.ae9f1eb3.chunk.css",
+    "static/js/2.456cc7e2.chunk.js",
+    "static/css/main.20347ba9.chunk.css",
+    "static/js/main.e001c810.chunk.js"
+  ]
+}
